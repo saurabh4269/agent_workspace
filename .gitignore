@@ -1,0 +1,8 @@
+# Private BRAIN expressions and simulation outputs — never publish
+research/private/
+*.session
+*.cookie
+.env
+.env.*
+credentials*
+**/secrets*
