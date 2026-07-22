@@ -1,0 +1,2 @@
+run_id,timestamp_utc,candidate_id,version,blueprint,status,region,universe,delay,neutralization,decay,truncation,expression_sha12,sharpe,fitness,returns,turnover,drawdown,long_count,short_count,coverage,max_weight,subuniverse_sharpe,self_corr,prod_corr,test_period_note,checks_json,decision,reason
+B0-SETUP,2026-07-22T03:40:00Z,NA,NA,NA,SETUP,USA,TOP3000,1,NA,NA,0.01,NA,,,,,,,,,,,,,,,,LEDGER_OPEN,Offline research factory initialized; zero BRAIN simulations executed by operator
